@@ -26,5 +26,5 @@ Run this before any job application and close down the cloud resources after 4 w
 
 `hello-kotlin-ktor`
 
-06-05-2019 | [My Repository](gcr.io/metal-smithy-160112/hello-kotlin-ktor) | [Live Deployment](https://hello-kotlin-ktor-ddyywwp6la-uc.a.run.app/)
+06-05-2019 | [My Repository on GCP](gcr.io/metal-smithy-160112/hello-kotlin-ktor) | [Live Deployment](https://hello-kotlin-ktor-ddyywwp6la-uc.a.run.app/)
 
